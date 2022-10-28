@@ -1,0 +1,8 @@
+C:\Users\PSCAD\Desktop\cuboid\cuboid\cuboid\bin\Debug\cuboid.exe.config
+C:\Users\PSCAD\Desktop\cuboid\cuboid\cuboid\bin\Debug\cuboid.exe
+C:\Users\PSCAD\Desktop\cuboid\cuboid\cuboid\bin\Debug\cuboid.pdb
+C:\Users\PSCAD\Desktop\cuboid\cuboid\cuboid\obj\Debug\cuboid.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\cuboid\cuboid\cuboid\obj\Debug\cuboid.csproj.SuggestedBindingRedirects.cache
+C:\Users\PSCAD\Desktop\cuboid\cuboid\cuboid\obj\Debug\cuboid.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\cuboid\cuboid\cuboid\obj\Debug\cuboid.exe
+C:\Users\PSCAD\Desktop\cuboid\cuboid\cuboid\obj\Debug\cuboid.pdb
